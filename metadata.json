@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Product Inventory & Analytics Dashboard",
+  "description": "Comprehensive JavaScript capstone project with interactive inventory analytics, simulated console runner, and deep concept guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
